@@ -38,7 +38,7 @@ public class App {
                 "</head>" +
                 "<body>" +
                 "<h1>LnTProject</h1>" +
-                "<h2>LnTProject is running successfully!</h2>" +
+                "<h2>LnTProject CI/CD Pipeline is running successfully!</h2>" +
                 "<h2>LnT Project - Done by: Abinaya &amp; Navya</h2>" +
                 "</body>" +
                 "</html>";
